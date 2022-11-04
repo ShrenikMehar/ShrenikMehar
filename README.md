@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShrenikMehar
-- 👀 I’m interested in Artificial Intelligence and Graphics Designing
+- 👀 I’m interested in Video Editing, Graphics Designing and Artificial Intelligence
 - 🌱 I’m currently graduating in CSE specialization with Cyber Security
-- 💞️ I’m looking to collaborate on AI based and graphics designing based projects
+- 💞️ I’m looking to collaborate on video editing, graphics designing and AI based projects
 - 📫 How to reach me "email: meharsg@rknec.edu" "instagram.com/ShrenikGG"
 
 <!---
