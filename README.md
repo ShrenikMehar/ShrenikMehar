@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShrenikMehar
-- 👀 I’m interested in Cyber Security, Networking, Video Editing, Graphics Designing
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently graduating in CSE specialization with Cyber Security
-- 💞️ I’m looking to collaborate on cyber security, networking, video editing, graphics designing projects
 - 📫 How to reach me "email: meharsg@rknec.edu" "LinkedIn(https://www.linkedin.com/in/shrenikmehar/)"
 
 <!---
